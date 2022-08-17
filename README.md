@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **Tesfasebsibacew@gmail.com or +251913209238**
 
+- 📄 Know about my experiences [https://www.ethiojobs.net/my-resume-details/408161/Network-Administrator-IV.html](https://www.ethiojobs.net/my-resume-details/408161/Network-Administrator-IV.html)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
