@@ -27,10 +27,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaredseb9&show_icons=true&locale=en&layout=compact" alt="yaredseb9" />
-</p>
-<br />
-
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -90,7 +86,9 @@
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
     </a> 
 </p>
-
+<br />
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaredseb9&show_icons=true&locale=en&layout=compact" alt="yaredseb9" />
+</p>
 <!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaredseb9&show_icons=true&locale=en" alt="yaredseb9" /></p>
 
