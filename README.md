@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Import Export document management system](https://github.com/Yaredseb9/IVAR-IMPEX-Phase-Two)
+- 🔭 I’m currently working on [Learning Resource Sharing](https://github.dev/Sewasew2127/greslern)
 
-- 🌱 I’m currently learning **Angular, Nodejs**
+- 🌱 I’m currently learning **Flutter
 
-- 👯 I’m looking to collaborate on **Any php, Laravel, python projects**
+- 👯 I’m looking to collaborate on **MERN, Laravel, python projects**
 
 - 👨‍💻 All of my projects are available at [my-link.com](my-link.com)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Tesfasebsibacew@gmail.com or +251913209238**
 
-- 📄 Know about my experiences [https://www.ethiojobs.net/my-resume-details/408161/Network-Administrator-IV.html](https://www.ethiojobs.net/my-resume-details/408161/Network-Administrator-IV.html)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DFKsvOw2RzCh3HTlxPS4Z7c9XCuBNXpb/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
