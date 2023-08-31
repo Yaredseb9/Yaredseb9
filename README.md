@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **MERN, Laravel, python projects**
 
-- 👨‍💻 All of my projects are available at [my-link.com](my-link.com)
+- 👨‍💻 All of my projects are available at [Projects]([my-link.com](https://github.com/Yaredseb9?tab=repositories))
 
 - 💬 Ask me about **laravel**
 
