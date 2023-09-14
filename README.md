@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Learning Resource Sharing](https://github.dev/Sewasew2127/greslern)
+- 🔭 I’m currently working on [Learning Resource Sharing](https://github.dev/Sewasew2127/greslern) **MERN (MongoDB, Express, React, Node)**
 
-- 🌱 I’m currently learning **Flutter
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **MERN, Laravel, python projects**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Yaredseb9?tab=repositories)
 
-- 💬 Ask me about **laravel**
+- 💬 Ask me about **laravel, node**
 
 - 📫 How to reach me **Tesfasebsibacew@gmail.com or +251913209238**
 
