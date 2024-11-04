@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tesfa Sebsibacew</h1>
 <h3 align="center">A passionate fullstack developer from Ethiopia. Full Stack Developer works with the Back End — or server side — of the application as well as the Front End, or client side.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaredseb9" alt="yaredseb9" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaredseb9&theme=onedark" alt="yaredseb9" /></a> </p>
 
 
 - 🔭 I’m currently working on [gulit-gebeya](https://github.com/Yaredseb9/gulit-gebeya-web)
