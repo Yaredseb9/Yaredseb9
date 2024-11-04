@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tesfa Sebsibacew</h1>
 <h3 align="center">A passionate fullstack developer from Ethiopia. Full Stack Developer works with the Back End — or server side — of the application as well as the Front End, or client side.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaredseb9&label=Profile%20views&color=0e75b6&style=flat" alt="yaredseb9" /> </p>
-<p align="left"> <a href="https://twitter.com/yaredseb1" target="blank"><img src="https://img.shields.io/twitter/follow/yaredseb1?logo=twitter&style=for-the-badge" alt="yaredseb1" /></a> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaredseb9" alt="yaredseb9" /></a> </p>
 
 
@@ -19,11 +16,14 @@
 
 - 📄 Know about my experiences [https://github.com/Yaredseb9/Hope_Portfolio](https://github.com/Yaredseb9/Hope_Portfolio)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaredseb9&label=Profile%20views&color=0e75b6&style=flat" alt="yaredseb9" /> </p>
+<p align="left"> <a href="https://twitter.com/yaredseb1" target="blank"><img src="https://img.shields.io/twitter/follow/yaredseb1?logo=twitter&style=for-the-badge" alt="yaredseb1" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yaredseb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaredseb1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/tesfa-sebsibacew-b94071142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tesfa-sebsibacew-b94071142" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tesfa sebsibacew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tesfa sebsibacew" height="30" width="40" /></a>
+  <a href="https://twitter.com/yaredseb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaredseb1" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/tesfa-sebsibacew-b94071142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tesfa-sebsibacew-b94071142" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/tesfa sebsibacew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tesfa sebsibacew" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
