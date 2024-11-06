@@ -37,6 +37,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaredseb9&show_icons=true&locale=en" alt="yaredseb9" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaredseb9&" alt="yaredseb9" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaredseb9&" alt="yaredseb9" /></p> -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yaredseb9&theme=dark&hide_border=true&mode=weekly&card_height=250" alt="GitHub Streak" /></a>
 
 <!-- <p><img align="center" src="https://githu" /></p> -->
