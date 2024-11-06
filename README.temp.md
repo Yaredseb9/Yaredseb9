@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Tesfa Sebsibacew</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaredseb9&label=Profile%20views&color=0e75b6&style=flat" alt="yaredseb9" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yaredseb9&label=Profile%20views&color=0e75b6&style=flat" alt="yaredseb9" /> </p>
 <h3 align="center">A passionate Full Stack Developer from Ethiopia with comprehensive experience in both back-end and front-end development. Proficient in collaborating within team environments, demonstrating strong problem-solving abilities and a commitment to excellence. Adept at adapting to new technologies, eager to learn from peers, and dedicated to sharing knowledge with others.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaredseb9&theme=onedark&no-frame=true" alt="yaredseb9" /></a> </p>
 
-
-- 🔭 I’m currently working on [gulit-gebeya](https://github.com/Yaredseb9/gulit-gebeya-web)
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Yaredseb9?tab=repositories](https://github.com/Yaredseb9?tab=repositories)
-
-- 💬 Ask me about **react, laravel, python**
-
-- 📫 How to reach me **tesfasebsibacew@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Yaredseb9/Hope_Portfolio](https://github.com/Yaredseb9/Hope_Portfolio)
+<p align="center">
+<ul>
+<li>🔭 I’m currently working on [gulit-gebeya](https://github.com/Yaredseb9/gulit-gebeya-web)</li>
+<li>🌱 I’m currently learning **Flutter**</li>
+<li>👨‍💻 All of my projects are available at [https://github.com/Yaredseb9?tab=repositories](https://github.com/Yaredseb9?tab=repositories)</li>
+<li>💬 Ask me about **react, laravel, python**</li>
+<li>📫 How to reach me **tesfasebsibacew@gmail.com**</li>
+<li>📄 Know about my experiences [https://yaredseb9.github.io/Hope_Portfolio/](Link to experience)</li>
+</ul>
+</p>
 
 <p align="left"> <a href="https://twitter.com/yaredseb1" target="blank"><img src="https://img.shields.io/twitter/follow/yaredseb1?logo=twitter&style=for-the-badge" alt="yaredseb1" /></a> </p>
 
