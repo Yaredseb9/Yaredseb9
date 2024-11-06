@@ -14,7 +14,6 @@
 <li>📄 Know about my experiences [https://yaredseb9.github.io/Hope_Portfolio/](Link to experience)</li>
 </ul>
 </p>
-***
 
 ---
 <p align="left"> <a href="https://twitter.com/yaredseb1" target="blank"><img src="https://img.shields.io/twitter/follow/yaredseb1?logo=twitter&style=for-the-badge" alt="yaredseb1" /></a> </p>
@@ -36,9 +35,9 @@
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaredseb9&show_icons=true&locale=en&layout=donut&theme=dark&hide_border=true" alt="yaredseb9" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=yaredseb9&theme=dark&hide_border=true&card_height=250&card_width=480" alt="GitHub Streak" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=yaredseb9&theme=dark&hide_border=true&card_height=250&card_width=480" alt="GitHub Streak" />
 </p>
-***
+
 
 ---
 <br><br>
