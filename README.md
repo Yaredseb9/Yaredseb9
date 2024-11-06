@@ -42,7 +42,7 @@
 ---
 <br>
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/hope_et"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hope_et" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/hope_et"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hope_et" /></a></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaredseb9&show_icons=true&locale=en" alt="yaredseb9" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaredseb9&" alt="yaredseb9" /></p> -->
