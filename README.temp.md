@@ -33,10 +33,10 @@
 <p><a href="https://www.buymeacoffee.com/hope_et"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hope_et" /></a></p><br><br>
 <h3 align="left">My Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaredseb9&show_icons=true&locale=en&layout=compact" alt="yaredseb9" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaredseb9&show_icons=true&locale=en&layout=pie" alt="yaredseb9" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaredseb9&show_icons=true&locale=en" alt="yaredseb9" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaredseb9&" alt="yaredseb9" /></p> -->
 
-<p><img align="center" src="https://githu" /></p>
+<!-- <p><img align="center" src="https://githu" /></p> -->
