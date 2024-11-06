@@ -34,8 +34,8 @@
 <h3 align="left">My Stats:</h3>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaredseb9&show_icons=true&locale=en&layout=donut&theme=dark&hide_border=true" alt="yaredseb9" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=yaredseb9&theme=dark&hide_border=true&card_height=250&card_width=480" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaredseb9&show_icons=true&locale=en&layout=donut&theme=dark&hide_border=true" alt="yaredseb9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yaredseb9&theme=dark&hide_border=true&card_height=250&card_width=480" alt="GitHub Streak" />
 </p>
 
 
