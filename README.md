@@ -7,7 +7,7 @@
 <p align="center">
 <ul>
 <li>🔭 I’m currently working on [gulit-gebeya](https://github.com/Yaredseb9/gulit-gebeya-web)</li>
-<li>🌱 I’m currently learning **Flutter**</li>
+<li>🌱 I’m currently learning ** Flutter **</li>
 <li>👨‍💻 All of my projects are available at [https://github.com/Yaredseb9?tab=repositories](https://github.com/Yaredseb9?tab=repositories)</li>
 <li>💬 Ask me about **react, laravel, python**</li>
 <li>📫 How to reach me **tesfasebsibacew@gmail.com**</li>
