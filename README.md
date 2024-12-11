@@ -6,12 +6,12 @@
 
 <p align="center">
 <ul>
-<li>🔭 I’m currently working on [gulit-gebeya](https://github.com/Yaredseb9/gulit-gebeya-web)</li>
-<li>🌱 I’m currently learning ** Flutter **</li>
-<li>👨‍💻 All of my projects are available at [https://github.com/Yaredseb9?tab=repositories](https://github.com/Yaredseb9?tab=repositories)</li>
-<li>💬 Ask me about **react, laravel, python**</li>
-<li>📫 How to reach me **tesfasebsibacew@gmail.com**</li>
-<li>📄 Know about my experiences [https://yaredseb9.github.io/Hope_Portfolio/](Link to experience)</li>
+<li>🔭 I’m currently working on <a href="https://github.com/Yaredseb9/gulit-gebeya-web">gulit-gebeya</a></li>
+<li>🌱 I’m currently learning <strong>Flutter</strong>.</li>
+<li>👨‍💻 All of my projects are available at <a href="https://github.com/Yaredseb9?tab=repositories"> my repository</a></li>
+<li>💬 Ask me about <strong>react, laravel, python</strong>.</li>
+<li>📫 How to reach me <strong>tesfasebsibacew@gmail.com</strong>.</li>
+<li>📄 Know about my experiences <a href="https://yaredseb9.github.io/Hope_Portfolio">link to portfolio</a></li>
 </ul>
 </p>
 
